@@ -1,0 +1,15 @@
+.about{
+    min-height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.about h4{
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+.about p{
+    font-weight: 500;
+}
